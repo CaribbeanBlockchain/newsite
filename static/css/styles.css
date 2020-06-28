@@ -1,0 +1,9 @@
+:root {
+    --main-font: PingFang HK, Helvetica, Arial, sans-serif;
+    font-size: calc(0.5em + 1vw);
+}
+
+p {
+    font-size: 0.75rem;
+}
+    
