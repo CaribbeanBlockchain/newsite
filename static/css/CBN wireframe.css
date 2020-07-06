@@ -1,0 +1,24 @@
+:root {
+
+/* Colors: */
+--unnamed-color-000000: #000000;
+--unnamed-color-211313: #211313;
+
+/* Font/text values */
+--unnamed-font-family-pingfang-hk: PingFang HK;
+--unnamed-font-style-semibold: Semibold;
+--unnamed-font-size-84: 84px;
+--unnamed-character-spacing-0: 0px;
+--unnamed-line-spacing-118: 118px;
+--unnamed-text-script-superscript: superscript;
+}
+
+/* Character Styles */
+.unnamed-character-style-1 {
+font-family: var(--unnamed-font-family-pingfang-hk);
+font-style: var(--unnamed-font-style-semibold);
+font-size: var(--unnamed-font-size-84);
+line-height: var(--unnamed-line-spacing-118);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-000000);
+}
